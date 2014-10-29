@@ -22,6 +22,7 @@ RUN apt-get install -y \
   libxml2-dev \
   libxslt-dev \
   bison \
+  vim-nox \
   imagemagick \
   nginx \
   supervisor
