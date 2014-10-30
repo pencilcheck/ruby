@@ -1,4 +1,4 @@
 ruby
 ====
 
-A docker container with trusty ubuntu env setup, ruby, nginx installed 
+A docker container with trusty ubuntu env setup, rvm ruby installed 
